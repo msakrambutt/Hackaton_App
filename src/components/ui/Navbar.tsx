@@ -57,7 +57,6 @@ function Navbar() {
                     <Link href="/">Female</Link>
 
                     {/* Cart Icon */}
-                    <div className="absolute text-sm top-[250px] right-[170px] bg-red-500 rounded-full px-1 text-white">0</div>
                     <AiOutlineShoppingCart className="bg-[#f1f1f1] rounded-full p-2 text-4xl" />
                 </div>
                 : null}
